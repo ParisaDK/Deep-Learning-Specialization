@@ -7,4 +7,6 @@ A collection of programming assignments from the [Deep Learning Specialization](
 This repository is dedicated to only the programming assignments from the 4th and 5th courses:
 - **4th Course**: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
 - **5th Course**: [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models)
+
+## 5th Course Assignments:
   
