@@ -8,7 +8,7 @@ This repository is dedicated to only the programming assignments from the 4th an
 - **4th Course**: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
 - **5th Course**: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-## Content
+## Contents
 
 ### 5th Course:
 #### Week 1:
