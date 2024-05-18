@@ -17,4 +17,5 @@ This repository is dedicated to only the programming assignments from the 4th an
 - [Proggraming Assignment: Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4](Sequence_Models/Week_1/assignment3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
 
 #### Week 2:
+- [Programming Assignment: Operations_on_word_vectors_v2a](Sequence_Models/Week2/Assignment1/Operations_on_word_vectors_v2a.ipynb)
 
