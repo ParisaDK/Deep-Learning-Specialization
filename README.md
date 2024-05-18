@@ -18,4 +18,5 @@ This repository is dedicated to only the programming assignments from the 4th an
 
 #### Week 2:
 - [Programming Assignment: Operations_on_word_vectors_v2a](Sequence_Models/Week2/Assignment1/Operations_on_word_vectors_v2a.ipynb)
+- [Programming Assignment: Emoji_v3a](Sequence_Models/Week2/Assignment2/Emoji_v3a.ipynb)
 
