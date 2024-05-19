@@ -10,7 +10,7 @@ To determine the source of errors, we perform error analysis by comparing the pr
    - If the probability assigned to the human translation is higher than that of the beam search translation, it indicates that the beam search algorithm failed to find the most likely sentence.
    - **Conclusion**: Beam search is at fault.
 
-2. **Case 2: P(y*|x) <= P(y-hat|x)**
+2. **Case 2: P(y\*|x) <= P(y-hat|x)**
    - If the probability assigned to the beam search translation is higher, it suggests that the RNN model incorrectly assigns higher probability to a less optimal translation.
    - **Conclusion**: The RNN model is at fault.
 
