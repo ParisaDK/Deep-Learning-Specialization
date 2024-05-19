@@ -26,7 +26,7 @@ For example:
 
 This structured approach allows us to efficiently pinpoint the source of errors and focus our efforts on the most impactful improvements, whether it be refining the beam search algorithm or enhancing the RNN model's accuracy.
 
-*This content is based on concepts from Andrew Ng's course on Coursera.* Source: [Andrew Ng's Coursera Course](https://www.coursera.org/learn/nlp-sequence-models/lecture/UhRjI/error-analysis-in-beam-search)
+*This content is based on concepts from Andrew Ng's course on Coursera.* Source: [Andrew Ng's Coursera Course](https://www.coursera.org/learn/nlp-sequence-models/lecture/UfvRl/error-analysis-in-beam-search)
 
 ![Error Analysis on Beam Search](./error_analysis_image.png)
 ![Error Analysis on Beam Search](./error_analysis_image1.png)
