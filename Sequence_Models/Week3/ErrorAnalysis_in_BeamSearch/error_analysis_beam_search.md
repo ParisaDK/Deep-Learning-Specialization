@@ -28,4 +28,4 @@ This structured approach allows us to efficiently pinpoint the source of errors 
 
 *This content is based on concepts from Andrew Ng's course on Coursera.* Source: [Andrew Ng's Coursera Course](https://www.coursera.org/learn/nlp-sequence-models/lecture/UhRjI/error-analysis-in-beam-search)
 
-![Error Analysis on Beam Search](Sequence_Models/Week3/ErrorAnalysis_in_BeamSearch/error_analysis_image.png)
+![Error Analysis on Beam Search](./error_analysis_image.png)
