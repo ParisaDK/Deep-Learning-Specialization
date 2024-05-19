@@ -20,3 +20,6 @@ This repository is dedicated to only the programming assignments from the 4th an
 - [Programming Assignment: Operations_on_word_vectors_v2a](Sequence_Models/Week2/Assignment1/Operations_on_word_vectors_v2a.ipynb)
 - [Programming Assignment: Emoji_v3a](Sequence_Models/Week2/Assignment2/Emoji_v3a.ipynb)
 
+#### Week 3:
+- [Reading: Sequence_Models/Week3/ErrorAnalysis_in_BeamSearch/error_analysis_beam_search.md](Sequence_Models/Week3/ErrorAnalysis_in_BeamSearch/error_analysis_beam_search.md)
+
