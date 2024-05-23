@@ -25,5 +25,7 @@ This repository is dedicated to only the programming assignments from the 4th an
 - [Programming Assignment: Neural_machine_translation_with_attention_v4a](Sequence_Models/Week3/assigment1/Neural_machine_translation_with_attention_v4a.ipynb)
 - [Programming Assignments: Trigger_word_detection_v2a](Sequence_Models/Week3/Assignment2/Trigger_word_detection_v2a.ipynb)
 
+#### Week 4:
+- [Programming Assignment: Transformer_Subclass_v1](Sequence_Models/Week4/Assignment1/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 
 
